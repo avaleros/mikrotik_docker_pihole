@@ -52,7 +52,7 @@ Create mount points
 
 On Winbox create a new container and write:
 
-Remote image: 
+Remote image: pihole/pihole:latest
 
 Interface: veth-pihole
 
